@@ -1,0 +1,194 @@
+MASA Astronaut Handbook 
+A Guide for Space Shuttle Missions to the Moon and Mars 
+
+ 
+
+Welcome to MASA 
+
+Congratulations on being selected as an astronaut for MASA’s groundbreaking missions to the Moon and Mars! This handbook will guide you through common challenges you may face during your mission and provide practical solutions to ensure your safety and success. 
+
+ 
+
+1. Shuttle Systems Troubleshooting 
+
+A. Power Supply Issues 
+
+Symptom: Sudden loss of electrical power or intermittent system failures. 
+
+Solution: 
+
+Check circuit breakers on the shuttle’s power control panel. 
+
+Switch to backup power systems if the primary supply is compromised. 
+
+Notify Mission Control immediately. 
+
+B. Communication Failures 
+
+Symptom: Loss of contact with Mission Control or other crew members. 
+
+Solution: 
+
+Verify the operational status of the communication array. 
+
+Use backup short-range communication systems. 
+
+Perform a hard reset of the communication module if necessary. 
+
+C. Life Support System Malfunctions 
+
+Symptom: Decreased oxygen levels, abnormal carbon dioxide readings, or temperature fluctuations. 
+
+Solution: 
+
+Switch to emergency oxygen supply. 
+
+Inspect air filters and replace if clogged. 
+
+Adjust environmental controls manually. 
+
+ 
+
+2. Health and Safety in Space 
+
+A. Managing Microgravity Effects 
+
+Common Issues: Muscle atrophy and bone density loss. 
+
+Solutions: 
+
+Engage in daily exercise using resistance bands and treadmills. 
+
+Take prescribed calcium and vitamin D supplements. 
+
+B. Space Motion Sickness 
+
+Symptom: Nausea, dizziness, and vomiting. 
+
+Solution: 
+
+Use anti-nausea medication as directed. 
+
+Focus on a fixed point to stabilize your senses. 
+
+Gradually acclimate to microgravity environments. 
+
+C. Mental Health Maintenance 
+
+Common Issues: Isolation and stress. 
+
+Solutions: 
+
+Maintain regular communication with loved ones. 
+
+Engage in mindfulness and relaxation exercises. 
+
+Utilize onboard entertainment and recreational activities. 
+
+ 
+
+3. Extravehicular Activities (EVA) 
+
+A. Suit Malfunctions 
+
+Symptom: Loss of pressure or temperature control. 
+
+Solution: 
+
+Return to the airlock immediately. 
+
+Inspect suit seals and thermal controls. 
+
+Report the issue to Mission Control. 
+
+B. Navigational Challenges 
+
+Symptom: Difficulty maintaining orientation. 
+
+Solution: 
+
+Use tethers to stay connected to the shuttle. 
+
+Rely on Heads-Up Display (HUD) guidance systems. 
+
+Monitor position relative to shuttle landmarks. 
+
+ 
+
+4. Surface Operations on the Moon and Mars 
+
+A. Dust Hazards 
+
+Common Issue: Lunar or Martian dust infiltrating equipment and suits. 
+
+Solutions: 
+
+Use brush kits to clean suit surfaces before re-entry. 
+
+Implement airlock dust mitigation procedures. 
+
+B. Energy Management 
+
+Common Issue: Depletion of solar power resources. 
+
+Solutions: 
+
+Optimize power usage by disabling non-essential systems. 
+
+Regularly clean solar panels to maintain efficiency. 
+
+C. Habitat Maintenance 
+
+Common Issue: Structural damage or system failures. 
+
+Solutions: 
+
+Perform regular inspections of habitat integrity. 
+
+Use repair kits for minor structural issues. 
+
+Notify Mission Control for major repairs. 
+
+ 
+
+5. Emergency Protocols 
+
+A. Fire in the Shuttle 
+
+Solution: 
+
+Don emergency oxygen masks. 
+
+Use fire extinguishers located in each module. 
+
+Isolate affected areas to prevent spread. 
+
+B. Medical Emergencies 
+
+Solution: 
+
+Administer first aid using the onboard medical kit. 
+
+Contact Mission Control for remote medical assistance. 
+
+Follow emergency medical protocols as outlined in the MASA Medical Guide. 
+
+C. Collision Avoidance 
+
+Solution: 
+
+Monitor radar systems for potential hazards. 
+
+Execute evasive maneuvers as directed by Mission Control. 
+
+ 
+
+Final Notes 
+
+Your mission with MASA represents the frontier of human exploration. By following the guidance in this handbook, you will be well-prepared to handle the challenges of space travel. Stay vigilant, support your crew, and keep pushing the boundaries of what is possible 
+
+Safe travels, Astronaut! 
+
+MASA Mission Support Team 
+
+ 
